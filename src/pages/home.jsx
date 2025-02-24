@@ -50,6 +50,3 @@ const Home = () => {
 };
 
 export default Home;
-
-
-// I need to learn how to do work with the nextjs
